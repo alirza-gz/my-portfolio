@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or private paths (adjust as needed)
+# Disallow: /admin/
+
+Sitemap: https://alirezagz.ir/sitemap.xml
