@@ -7,11 +7,6 @@ import neginbazr from "../../Assets/Projects/neginbazr.png";
 import bookingHotel from "../../Assets/Projects/hotel.png";
 import digitize from "../../Assets/Projects/digitize.png";
 import inventory from "../../Assets/Projects/inventory.png";
-import freelancersAppVideo from "/Videos/Freelancers-app.mp4";
-import neginbazrVideo from "/Videos/neginbazr.mp4";
-import digitizeVideo from "/Videos/digitize.mp4";
-import inventoryAppVideo from "/Videos/inventory.mp4";
-import bookingHotelVideo from "/Videos/bookinghotel.mp4";
 
 const projects = [
   {
@@ -20,7 +15,7 @@ const projects = [
     description:
       "Fullstack app for freelancers with NodeJS, MongoDB, ReactJS, Tailwindcss. In this app there are 3 roles: Freelancer, Owner and Admin. Owner creates projects, Freelancer creates proposals for projects and Admin controls all the process. each role has a panel. stack: React, React-Router-DOM, React-Query, React-Hook-Form, Axios, Tailwindcss, etc.",
     ghLink: "https://github.com/alirza-gz/Freelancering-App",
-    videoUrl: freelancersAppVideo,
+    videoUrl: "https://www.aparat.com/embed/iwd9v5i",
     tags: ["React.js", "Tailwindcss", "MongoDB"],
   },
   {
@@ -36,7 +31,7 @@ const projects = [
     title: "NeginBazr Danesh",
     description:
       "A full-stack web application built for managing greenhouses, farms, and agricultural products, enabling users to register farms, list products, and place orders seamlessly. The platform features dedicated admin and user panels to efficiently handle operations and user interactions. It includes an interactive map powered by react-leaflet, allowing users to explore and filter farms based on type, products, cultivation methods, and location. Developed with React.js, Tailwind CSS, and Django, the system provides a scalable and user-friendly solution for modern agricultural management.",
-    videoUrl: neginbazrVideo,
+    videoUrl: "https://www.aparat.com/embed/gplak1z",
     tags: ["React.js", "Tailwindcss", "React-leaflet"],
   },
   {
@@ -46,7 +41,7 @@ const projects = [
       "A complete booking app with advanced state management using context+reducer and routing using RRD v6 stack: React, React-Router-DOM, React-Hook-Form, Context, Reducer, Axios, Tailwindcss, etc.",
     ghLink: "https://github.com/alirza-gz/BookingHotel-App",
     demoLink: "https://bookinghotel-app-alirzagz.netlify.app/",
-    videoUrl: bookingHotelVideo,
+    videoUrl: "https://www.aparat.com/embed/ebp78fe",
     tags: ["React.js", "Tailwindcss"],
   },
   {
@@ -56,7 +51,7 @@ const projects = [
       "Digitize is a demo online shop built with ReactJS and TailwindCSS. With Digitize, you can browse a selection of digital products including mobile phones, laptops, and smartwatches. You can filter products, sort them, search for specific items, and add them to your cart. You can also mark products as favorites. stack: React, React-Router-DOM, React-Hook-Form, Axios, Context, Reducer, Tailwindcss, Firebase, etc.",
     ghLink: "https://github.com/alirza-gz/Digitize-Ecommerce-Store",
     demoLink: "https://digitize-shop-alirzagz.netlify.app/",
-    videoUrl: digitizeVideo,
+    videoUrl: "https://www.aparat.com/embed/zic4rwc",
     tags: ["React.js", "Tailwindcss", "Firebase"],
   },
   {
@@ -66,7 +61,7 @@ const projects = [
       "Inventory App with ReactJS & TailwindCSS. Some Features: Create categories, Add new products based on previous or recently added categories, Edit and Delete product, Sort products based on createdAt Date, Filter products based on selected category, Search in products based product title, use Context API as state management, Light and Dark theme",
     ghLink: "https://github.com/alirza-gz/Inventory-App",
     demoLink: "https://inventory-app-alirzagz.netlify.app/",
-    videoUrl: inventoryAppVideo,
+    videoUrl: "https://www.aparat.com/embed/kva8y40",
     tags: ["React.js", "Tailwindcss"],
   },
 ];
