@@ -144,6 +144,10 @@ button:focus {
   }
 }
 
+.navbar-nav {
+  padding-right: 1.3rem;
+}
+
 .navbar-nav .nav-link {
   color: white !important;
   padding-right: 1rem;
@@ -168,7 +172,7 @@ button:focus {
 
 .navbar-nav .nav-item {
   position: relative;
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 .navbar-nav .nav-item a {
