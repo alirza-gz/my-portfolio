@@ -413,7 +413,7 @@ button:focus {
 .home-about-body {
   padding-top: 20px;
   font-size: 1.2em;
-  text-align: justify;
+  text-align: center;
 }
 
 .home-about-social {
