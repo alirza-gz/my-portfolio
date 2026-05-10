@@ -1,12 +1,12 @@
 import { useState } from "react";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import freelancers from "../../Assets/Projects/freelancers.png";
-import eftekhartalent from "../../Assets/Projects/eftekhartalent.png";
-import neginbazr from "../../Assets/Projects/neginbazr.png";
-import bookingHotel from "../../Assets/Projects/hotel.png";
-import digitize from "../../Assets/Projects/digitize.png";
-import inventory from "../../Assets/Projects/inventory.png";
+import freelancers from "../../Assets/Projects/freelancers.jpg";
+import eftekhartalent from "../../Assets/Projects/eftekhartalent.jpg";
+import neginbazr from "../../Assets/Projects/neginbazr.jpg";
+import bookingHotel from "../../Assets/Projects/hotel.jpg";
+import digitize from "../../Assets/Projects/digitize.jpg";
+import inventory from "../../Assets/Projects/inventory.jpg";
 
 const projects = [
   {
